@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: white;
 }
 
 .d-bloc .panel button:hover,
@@ -326,6 +326,7 @@ a:hover {
     float: left;
     margin-top: 4px;
     font-size: 16px;
+    margin-right: 30px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -727,7 +728,7 @@ h1 {
 }
 
 h4 {
-    color: #F3976C!important;
+    color: #F9DDD2!important;
 }
 
 .icons {
@@ -775,7 +776,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #F9DDD2!important;
 }
 
 .btn-atomic-tangerine {
