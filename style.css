@@ -679,9 +679,18 @@ a {
 }
 
 p {
-  font-size: 11px;
+  font-size: 16px;
 }
-
+.txt{
+    text-align: center;
+    font-size: 20px;
+    padding: 0vw 15vw 0vw 15vw;
+}
+.txt_2{
+    font-size: 20px;
+    color: #999999 !important;
+    font-style: italic;
+}
 .tight-width-whitespace {
   max-width: 600px;
   margin: auto auto auto auto;
